@@ -1,9 +1,9 @@
 # Interactive_Poems
 
 A collection of interactive poems.
-* [chttng](/kaira.one/Interactive_Poems/chttng)
-* [Little Butterfly](kaira.one/Interactive_Poems/Little-Butterfly)
-* [Biography](kaira.one/Interactive_Poems/Biography)
+* [chttng](http://kaira.one/Interactive_Poems/chttng/)
+* [Little Butterfly](http://kaira.one/Interactive_Poems/Little-Butterfly/)
+* [Biography](http://kaira.one/Interactive_Poems/Biography/)
 
 
 <pre>
