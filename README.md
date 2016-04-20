@@ -1,6 +1,6 @@
 # Interactive_Poems
 
-A collection of interactive poems.
+Below are my collection of interactive poems. Click each one to play.
 * [chttng](http://kaira.one/Interactive_Poems/chttng/)
 * [Little Butterfly](http://kaira.one/Interactive_Poems/Little-Butterfly/)
 * [Biography](http://kaira.one/Interactive_Poems/Biography/) - <sub> credits to Biffy Clyro "Know Your Quarry" </sub>
